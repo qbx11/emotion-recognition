@@ -25,10 +25,7 @@ Wykorzystano zbiór **FER2013**.
 
 
 
-##Wymagane biblioteki:
 
-```bash
-pip install torch torchvision pandas numpy scikit-learn matplotlib seaborn tqdm pillow
 
 
 # Real-Time Emotion Recognition
@@ -45,4 +42,4 @@ Aplikacja oparta na sztucznej inteligencji, która rozpoznaje emocje twarzy w cz
 ##Wymagane biblioteki:
 
 ```bash
-pip install torch torchvision opencv-python mediapipe numpy pillow
+pip install torch torchvision opencv-python mediapipe numpy pillow pandas scikit-learn matplotlib seaborn tqdm
